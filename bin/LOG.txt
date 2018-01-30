@@ -1,0 +1,12 @@
+Alive cells: 15; Dead Cells: 141; Generation: 59
+Alive cells: 11; Dead Cells: 145; Generation: 58
+Alive cells: 14; Dead Cells: 142; Generation: 57
+Alive cells: 13; Dead Cells: 143; Generation: 56
+Alive cells: 13; Dead Cells: 143; Generation: 55
+Alive cells: 12; Dead Cells: 144; Generation: 54
+Alive cells: 10; Dead Cells: 146; Generation: 53
+Alive cells: 9; Dead Cells: 147; Generation: 52
+Alive cells: 7; Dead Cells: 149; Generation: 51
+Alive cells: 7; Dead Cells: 149; Generation: 50
+Alive cells: 7; Dead Cells: 149; Generation: 49
+Alive cells: 7; Dead Cells: 149; Generation: 48
